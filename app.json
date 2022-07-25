@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "expo-bare-lib-test",
+    "slug": "expo-bare-lib-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
